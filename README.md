@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+<h1>Phone Book</h1>
+
+Basic CRUD React.js application<br>
+https://jinss5.github.io/phonebook/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
