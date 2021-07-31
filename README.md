@@ -1,7 +1,6 @@
 <h1>Phone Book</h1>
 
-Basic CRUD React.js application<br>
-https://jinss5.github.io/phonebook/
+Basic CRUD React.js application
 
 ## Getting Started with Create React App
 
